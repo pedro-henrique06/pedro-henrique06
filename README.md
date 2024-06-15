@@ -1,6 +1,6 @@
 ## 🖖 Hi, i am <strong>Pedro Henrique Candido!</strong>
 <p align="right"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=pedro-henrique06&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h3> I'm passionate for development, technology and project architecture!</h3>
