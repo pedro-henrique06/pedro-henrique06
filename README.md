@@ -10,7 +10,7 @@
 - 💼 Working as a **Systems Analyst** at <a href="https://sinqia.com.br/">Sinqia</a>
 - 📫 How to reach me **pedrohc.souza@proton.me**
   
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 ## 🚀 My Skills
 <div style="display: flex; align-items: flex-start;">
  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
