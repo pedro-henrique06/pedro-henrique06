@@ -14,11 +14,15 @@
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,postgres" />
-  </a>
-</p>
+
+<div style="display: flex; align-items: flex-start;">
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
 ## 🛠️ Tools of Work
 
