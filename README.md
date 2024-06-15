@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🖖 Olá, meu nome é <strong>Pedro Henrique Candido!</strong>
-<h3> Sou um apaixonado por programação e tecnologia!</h3>
+## 🖖 Hi, i am <strong>Pedro Henrique Candido!</strong>
+<h3> I'm passionate for development, technology and project architecture!</h3>
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formação em **ADS** pela <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>
-- 💼 Trabalhando como **Analista de Sistemas** na <a href="https://sinqia.com.br/">Sinqia</a>
+- 💻 Exploring new technology, development and project architecture!
+- 🎓 degree in **Information Systems** at university <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>
+- 💼 Working as a **Systems Analyst** at <a href="https://sinqia.com.br/">Sinqia</a>
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,java,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,postgres" />
   </a>
 </p>
 
-## 🛠️Ferramentas de desenvolvimento
+## 🛠️ Tools of Work
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,15 +23,15 @@
   </a>
 </p>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
-<a href="https://github.com/pedro-henrique06" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique06&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+<a href="https://github.com/pedro-henrique06" title="language mapping illustration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique06&theme=dracula&hide_langs_below=1" alt="illustration of reading programming languages ​​on the profile"/>
 </a>
 
 <br>
 
-### 📱 Minhas redes:
+### 📱 My Networks:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-henrique06" title="LinkedIn">
